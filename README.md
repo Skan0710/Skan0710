@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Skan&fontSize=44&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%26%20Mobile%20App%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Header Capsule - Skan"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Skan&fontSize=44&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20and%20Mobile%20App%20Developer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descAlign=50" width="100%" alt="Header Capsule - Skan"/>
   <br/>
   <a href="https://github.com/Skan0710">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Skan+👋;Full-Stack+%26+Mobile+App+Developer;AI+Systems+Builder+%26+Distributed+Systems;Shipping+scalable+products+in+public" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there!+I%27m+Skan+👋;Full-Stack+and+Mobile+App+Developer;AI+Systems+Builder;Shipping+scalable+products+in+public" alt="Typing SVG"/>
   </a>
 </div>
 
