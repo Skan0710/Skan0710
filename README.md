@@ -11,7 +11,11 @@
 ## 🔥 GitHub Streaks
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Skan0710&theme=neon-dark&hide_border=true&border_radius=6" width="100%" alt="Live GitHub contribution streak stats for Skan0710 in neon dark theme" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1400&pause=700&color=F28C28&center=true&vCenter=true&width=440&height=26&lines=Loading+live+streak+metrics...;Syncing+contribution+data..." alt="Animated loading indicator for the live GitHub streak card" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Skan0710&hide_border=true&background=FFFFFF&ring=F28C28&fire=F28C28&currStreakLabel=F28C28&sideLabels=F28C28&currStreakNum=1F2937&sideNums=1F2937&dates=6B7280&stroke=FDE7C3&border_radius=12" width="100%" alt="Live GitHub streak card for Skan0710 showing total contributions, current streak with flame indicator, and longest streak in a clean white and orange layout" />
 </p>
 
 ---
