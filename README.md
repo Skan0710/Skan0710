@@ -8,10 +8,18 @@
 
 ---
 
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Skan0710&theme=neon-dark&hide_border=true&border_radius=6" width="100%" alt="Live GitHub contribution streak stats for Skan0710 in neon dark theme" />
+</p>
+
+---
+
 ## ⚡ System Profile Scan
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/system-scan?username=skan0710&theme=neon&style=terminal&v=oss-system-scan-1&mode=dark" width="100%" alt="Live System Profile Scan" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=Skan0710&theme=neon&style=terminal&v=oss-system-scan-1&mode=dark" width="100%" alt="Live System Profile Scan" />
 </p>
 
 ---
@@ -31,13 +39,13 @@
 ## 💻 Terminal System Stats & Live Heatmap
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=skan0710&theme=neon&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Live Neofetch Terminal Stats" />
+  <img src="https://www.gitskins.com/api/section/stats?username=Skan0710&theme=neon&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Live Neofetch Terminal Stats" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=skan0710&theme=neon&v=oss-heatmap-1&mode=dark" width="100%" alt="Live Daily GitHub Contributions Heatmap" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Skan0710&theme=neon&v=oss-heatmap-1&mode=dark" width="100%" alt="Live Daily GitHub Contributions Heatmap" />
 </p>
 
 ---
